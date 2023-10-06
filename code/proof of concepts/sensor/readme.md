@@ -2,4 +2,4 @@
 
 minimale hard- en software die aantoont dat minimaal 6 sensoren onafhankelijk van elkaar kunnen uitgelezen worden (geen calibratie, normalisatie of interpolatie). Hierbij moet een zo groot mogelijk bereik van de AD converter benut worden (indien van toepassing)
 
-![A description of my image](QTR8A Proof of concept electrical scheme.PNG)
+![A description of my image](./QTR8A Proof of concept electrical scheme.PNG)
