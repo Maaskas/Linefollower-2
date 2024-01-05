@@ -2,7 +2,7 @@
 
 lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
 
-![A description of my image](images/IMG_2839.jpg)
+![A description of my image](images/LFR.jpg)
 
   
 ## specifications
