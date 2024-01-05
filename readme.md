@@ -1,6 +1,6 @@
 # LineFollower
 
-![A description of my image](LFR.jpg)
+![A description of my image](images/LFR.jpg)
 
   
 ## specifications
