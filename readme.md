@@ -5,11 +5,11 @@
   
 ## specifications
 
-microcontroller:ATmega32U4
+microcontroller: ATmega32U4
 
 motors: 50:1 Geamotor 6V
 
-h-bridge:TB6612FNG
+h-bridge: TB6612FNG
 
 sensors: QTR-8A
 
