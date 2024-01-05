@@ -1,27 +1,25 @@
 # LineFollower
 
-lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
-
-![A description of my image](images/LFR.jpg)
+![A description of my image](LFR.jpg)
 
   
 ## specifications
 
-microcontroller:
+microcontroller:ATmega32U4
 
-motors: 
+motors: 50:1 Geamotor 6V
 
-h-bridge:
+h-bridge:TB6612FNG
 
-sensors:
+sensors: QTR-8A
 
-batteries:
+batteries: Sony US 18650VTC5C, 2500mAh, 30A
 
-wireless communication:
+wireless communication: HC-05
 
-distance sensor - motors:
+distance sensor - motors: 85 mm
 
-weight:
+weight: 289 gram
 
-speed: 
+speed: 0,82m/s
 
